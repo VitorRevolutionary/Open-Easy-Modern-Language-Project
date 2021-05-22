@@ -4,10 +4,14 @@ We are here to create a language that make the communication easier and better a
 Pronouns
 {
 
+
+{
+
+
 Nominative {
 
 
-First Person(Singular)
+First Person(Singular)        
 Joik
 
 Second Person(Singular)
@@ -52,6 +56,33 @@ Zaik
 
 
 }
+
+}
+
+
+Possesive Pronouns {
+
+First Person(Singular)        
+Joip
+
+Second Person(Singular)
+Toip
+
+Third Person(Singular)
+Doip
+
+First Person(Plural)
+Noip
+
+Second Person(Plural)
+Voip
+
+Third Person(Plural)
+Zoip
+
+
+}
+
 
 
 }
