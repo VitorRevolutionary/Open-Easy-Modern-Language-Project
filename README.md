@@ -11,22 +11,22 @@ Pronouns
 Nominative {
 
 
-First Person(Singular)        
+First Person(Singular):        
 Joik
 
-Second Person(Singular)
+Second Person(Singular):
 Toik
 
-Third Person(Singular)
+Third Person(Singular):
 Doik
 
-First Person(Plural)
+First Person(Plural):
 Noik
 
-Second Person(Plural)
+Second Person(Plural):
 Voik
 
-Third Person(Plural)
+Third Person(Plural):
 Zoik
 
 
@@ -36,22 +36,22 @@ Zoik
 Acusative {
 
 
-First Person(Singular)
+First Person(Singular):
 Jaik
 
-Second Person(Singular)
+Second Person(Singular):
 Taik
 
-Third Person(Singular)
+Third Person(Singular):
 Daik
 
-First Person(Plural)
+First Person(Plural):
 Naik
 
-Second Person(Plural)
+Second Person(Plural):
 Vaik
 
-Third Person(Plural)
+Third Person(Plural):
 Zaik
 
 
@@ -62,22 +62,22 @@ Zaik
 
 Possesive Pronouns {
 
-First Person(Singular)        
+First Person(Singular):        
 Joip
 
-Second Person(Singular)
+Second Person(Singular):
 Toip
 
-Third Person(Singular)
+Third Person(Singular):
 Doip
 
-First Person(Plural)
+First Person(Plural):
 Noip
 
-Second Person(Plural)
+Second Person(Plural):
 Voip
 
-Third Person(Plural)
+Third Person(Plural):
 Zoip
 
 
