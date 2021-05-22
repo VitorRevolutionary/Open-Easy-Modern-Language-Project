@@ -4,6 +4,8 @@ We are here to create a language that make the communication easier and better a
 Pronouns
 {
 
+Nominative {
+
 
 First Person(Singular)
 Joik
@@ -22,6 +24,34 @@ Voik
 
 Third Person(Plural)
 Zoik
+
+
+}
+
+
+Acusative {
+
+
+First Person(Singular)
+Jaik
+
+Second Person(Singular)
+Taik
+
+Third Person(Singular)
+Daik
+
+First Person(Plural)
+Naik
+
+Second Person(Plural)
+Vaik
+
+Third Person(Plural)
+Zaik
+
+
+}
 
 
 }
