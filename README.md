@@ -11,7 +11,7 @@ Pronouns
 Nominative {
 
 
-First Person(Singular):        
+First Person(Singular):
 Joik
 
 Second Person(Singular):
@@ -62,7 +62,7 @@ Zaik
 
 Possesive Pronouns {
 
-First Person(Singular):        
+First Person(Singular):
 Joip
 
 Second Person(Singular):
