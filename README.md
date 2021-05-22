@@ -1,6 +1,14 @@
 # Open-Easy-Modern-Language-Project
 We are here to create a language that make the communication easier and better and with an easy and a regular gramatic rules
 
+Article
+{
+  The only:
+  
+  Das
+  
+}
+
 Pronouns
 {
 
