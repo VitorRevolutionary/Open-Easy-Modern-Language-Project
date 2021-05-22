@@ -80,6 +80,37 @@ Voip
 Third Person(Plural):
 Zoip
 
+}
+
+
+Demonstrative Pronouns {
+
+Near
+{ First Person(Singular)
+  Second Person(Singular)
+  Third Person(Singular) } : 
+
+
+Near
+{ First Person(Plural)
+  Second Person(Plural)
+  Third Person(Plural) } :
+
+
+Far
+{ First Person(Singular)
+  Second Person(Singular)
+  Third Person(Singular) } : 
+
+
+Far
+{ First Person(Plural)
+  Second Person(Plural)
+  Third Person(Plural) } :
+
+
+
+
 
 }
 
