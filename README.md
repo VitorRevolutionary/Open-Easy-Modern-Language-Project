@@ -29,6 +29,11 @@ Voik
 Third Person(Plural):
 Zoik
 
+*New Pronouns*
+
+Joik + Doik = Foik
+Joik + Zoik = Goik
+
 
 }
 
@@ -54,6 +59,10 @@ Vaik
 Third Person(Plural):
 Zaik
 
+*New Pronouns*
+
+Jaik + Daik = Faik
+Jaik + Zaik = Gaik
 
 }
 
@@ -79,6 +88,11 @@ Voip
 
 Third Person(Plural):
 Zoip
+
+*New Pronouns*
+
+Joip + Doip = Foip
+Joip + Zoip = Goip
 
 }
 
