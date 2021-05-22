@@ -32,6 +32,7 @@ Zoik
 *New Pronouns*
 
 Joik + Doik = Foik
+
 Joik + Zoik = Goik
 
 
@@ -62,6 +63,7 @@ Zaik
 *New Pronouns*
 
 Jaik + Daik = Faik
+
 Jaik + Zaik = Gaik
 
 }
@@ -92,6 +94,7 @@ Zoip
 *New Pronouns*
 
 Joip + Doip = Foip
+
 Joip + Zoip = Goip
 
 }
