@@ -3,17 +3,25 @@ We are here to create a language that make the communication easier and better a
 
 Pronouns
 {
-First Person(Singular)
-Jaik
-Second Person(Singular)
-Tuik
-Third Person(Singular)
 
+
+First Person(Singular)
+Joik
+
+Second Person(Singular)
+Toik
+
+Third Person(Singular)
+Doik
 
 First Person(Plural)
 Noik
+
 Second Person(Plural)
-Vuik
+Voik
+
 Third Person(Plural)
-Zeik
+Zoik
+
+
 }
