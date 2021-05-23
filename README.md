@@ -182,7 +182,10 @@ Joir + Zoir = Goir
 Verbs{
 
    Indicative{
-             
+             The verb "To Be" = "arin" and "stin"; the suffix "in" is the indicative of the verbs;
+              {
+              Can be two verbs in this new language: the proper be that is "arin", and also "stin" the state that you are now, 
+              }
              }
              
    Sujuntive{
