@@ -136,6 +136,36 @@ Far
 
 
 
+Reflexive Pronouns {
+
+First Person(Singular):
+Joir
+
+Second Person(Singular):
+Toir
+
+Third Person(Singular):
+Doir
+
+First Person(Plural):
+Noir
+
+Second Person(Plural):
+Voir
+
+Third Person(Plural):
+Zoir
+
+*New Pronouns*
+
+Joir + Doir = Foir
+
+Joir + Zoir = Goir
+
+}
+
+
+
 
 }
 
