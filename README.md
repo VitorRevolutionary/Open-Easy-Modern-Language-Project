@@ -113,25 +113,25 @@ Demonstrative Pronouns {
 Near
 { First Person(Singular)
   Second Person(Singular)
-  Third Person(Singular) } : 
+  Third Person(Singular) } :  Njorat
 
 
 Near
 { First Person(Plural)
   Second Person(Plural)
-  Third Person(Plural) } :
+  Third Person(Plural) } : Njoret
 
 
 Far
 { First Person(Singular)
   Second Person(Singular)
-  Third Person(Singular) } : 
+  Third Person(Singular) } : Fjorat
 
 
 Far
 { First Person(Plural)
   Second Person(Plural)
-  Third Person(Plural) } :
+  Third Person(Plural) } : Fjoret
 
 
 
