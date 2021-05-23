@@ -74,6 +74,8 @@ Jaik + Daik = Faik
 
 Jaik + Zaik = Gaik
 
+*Joik call vaik*
+
 }
 
 }
@@ -161,6 +163,9 @@ Zoir
 Joir + Doir = Foir
 
 Joir + Zoir = Goir
+
+*Exemples*
+*Toik just care of toir*
 
 }
 
