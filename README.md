@@ -7,6 +7,7 @@ Article
   
   
   Definite: Desa
+  
   Indefinite: Desi
      
   
