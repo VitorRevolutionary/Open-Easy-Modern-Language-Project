@@ -3,9 +3,13 @@ We are here to create a language that make the communication easier and better a
 
 Article
 {
-  The only:
   
-  Das
+  
+  
+  Definite: Desa
+  Indefinite: Desi
+     
+  
   
 }
 
