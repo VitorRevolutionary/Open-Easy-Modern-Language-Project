@@ -74,7 +74,7 @@ Jaik + Daik = Faik
 
 Jaik + Zaik = Gaik
 
-*Atention, the verb call is not in the language, the verb call is here being used to you understand more about, and how it works*
+*Attention, the verb call is not in the language, the verb call is here being used to you understand more about, and how it works*
 
 *Exemples*: 
 *Joik call vaik*
@@ -167,7 +167,7 @@ Joir + Doir = Foir
 
 Joir + Zoir = Goir
 
-*Atention, the "just care of" is not in the language, the "just care of" is here being used to you understand more about, and how it works*
+*Attention, the "just care of" is not in the language, the "just care of" is here being used to you understand more about, and how it works*
 
 *Exemples*: 
 *Toik just care of toir*
@@ -180,5 +180,13 @@ Joir + Zoir = Goir
 
 
 Verbs{
+
+   Indicative{
+             
+             }
+             
+   Sujuntive{
+             
+            }
 
 }
