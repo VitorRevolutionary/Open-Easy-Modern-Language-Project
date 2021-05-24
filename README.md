@@ -198,21 +198,33 @@ the infinitive of the verbs is simply you put a "er" in the end of the verb; and
    Indicative{
    ㅤ
              The verb "To Be" = "serin" and "estin"; the suffix "in" is the indicative of the verbs;
+             ㅤ
+             ㅤ
              The verb "To Have" = "habin"; 
              ㅤ
+             ㅤ
+             ㅤㅤ
               {
-              ㅤ
+              ㅤㅤ
               Can be two verbs in this new language: the proper be that is "serin", and also "estin" the state that you are now.
               ㅤ
+              ㅤ
               Present: is just add a suffix "ep".
+              ㅤ
               exemple(indicative):  "serin + ep" ==> serinep
+              ㅤ
+              ㅤ
               ㅤ
               Simple Past: is just add a suffix "pa".
               exemple(indicative):  "serin + pa" ==> serinpa
-              ㅤㅤ
+              ㅤ
+              ㅤ
+              ㅤㅤㅤ
               Complete Past: is habiner and add a suffix "pa" to the verb in past.
               exemple(indicative):  habiner and "serin + pa" ==> "Joik habiner serinpa" => I have b
-              ㅤㅤ
+              ㅤ
+              ㅤ
+              ㅤㅤㅤ
               ㅤ
               }
               ㅤ
