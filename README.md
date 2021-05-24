@@ -221,7 +221,7 @@ the infinitive of the verbs is simply you put a "er" in the end of the verb; and
               ㅤ
               ㅤㅤㅤ
               Complete Past: is habiner and add a suffix "pa" to the verb in past.
-              exemple(indicative):  habiner and "serin + pa" ==> "Joik habiner serinpa" => I have b
+              exemple(indicative):  habiner and "hab + pa" ==> "Joik habiner habpa" => I have had
               ㅤ
               ㅤ
               ㅤㅤㅤ
