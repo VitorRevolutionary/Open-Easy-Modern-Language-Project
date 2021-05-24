@@ -185,10 +185,10 @@ Joir + Zoir = Goir
 
 
 Nouns{     
-     Singular: word root + e
-     .
-     Plural: word root + en
-   }
+Singular: word root + a
+
+Plural: word root + an
+}
 
 
 Verbs{
