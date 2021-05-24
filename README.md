@@ -196,16 +196,34 @@ Verbs{
 the infinitive of the verbs is simply you put a "er" in the end of the verb; and all verbs are showed in infinive that for exemple: "serer" "ser + er" if you want to make a conjugation simply change "er" to other suffix that represents a Verbal Time 
 
    Indicative{
+   ㅤ
              The verb "To Be" = "serin" and "estin"; the suffix "in" is the indicative of the verbs;
+             The verb "To Have" = "habin"; 
+             ㅤ
               {
-              Can be two verbs in this new language: the proper be that is "serin", and also "estin" the state that you are now, 
+              ㅤ
+              Can be two verbs in this new language: the proper be that is "serin", and also "estin" the state that you are now.
+              ㅤ
+              Present: is just add a suffix "ep".
+              exemple(indicative):  "serin + ep" ==> serinep
+              ㅤ
+              Simple Past: is just add a suffix "pa".
+              exemple(indicative):  "serin + pa" ==> serinpa
+              ㅤㅤ
+              Complete Past: is habiner and add a suffix "pa" to the verb in past.
+              exemple(indicative):  habiner and "serin + pa" ==> "Joik habiner serinpa" => I have b
+              ㅤㅤ
+              ㅤ
               }
+              ㅤ
              }
              
    Sujuntive{
              The verb "To Be" = "sersu" and "estsu"; the suffix "su" is the subjuntive of the verbs;
               {
+              ㅤ
               Can be two verbs in this new language: the proper be that is "sersu" and also "estsu" the state that you are now, 
+              ㅤ
               }
             }
 
