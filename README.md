@@ -186,6 +186,8 @@ Joir + Zoir = Goir
 
 Verbs{
 
+the infinitive of the verbs is simply you put a "er" in the end of the verb; and all verbs are showed in infinive that for exemple: "serer" "ser + er" if you want to make a conjugation simply change "er" to other suffix that represents a Verbal Time 
+
    Indicative{
              The verb "To Be" = "serin" and "estin"; the suffix "in" is the indicative of the verbs;
               {
